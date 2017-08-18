@@ -1,0 +1,14 @@
+
+.register{
+
+	width: 100%;
+	background: #337ab7;
+	color: white;
+	opacity: 1;
+	font-weight: bold;
+}
+
+.register:hover{
+	background: #337ab7;
+	opacity: 0.6;
+}
